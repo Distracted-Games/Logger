@@ -13,7 +13,7 @@ A lightweight, strongly-typed, and configurable logging utility for Roblox (Luau
 ## Installation
 
 ### Manual Installation
-1. Go to the [Releases Page](https://github.com/your-username/your-repo-name/releases) (placeholder) and download the latest `Logger.rbxm` file.
+1. Go to the [Releases Page](https://github.com/Distracted-Games/Logger/releases/latest) and download the latest `Logger.rbxm` file.
 2. Drag and drop the model file into your Roblox Studio project.
 3. We suggest placing the `Logger` module inside:
    `ReplicatedStorage/Source/Utility/Logger`
